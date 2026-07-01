@@ -1,6 +1,3 @@
-# Personal Portfolio Website
-This is my first personal website built using HTML as part of a web development learning program.
-
 ## About the Project
 This website introduces who I am, my skills, and the projects I have built. It is designed as a simple portfolio to practice HTML and understand how web pages are structured.
 
@@ -17,5 +14,5 @@ This website introduces who I am, my skills, and the projects I have built. It i
 
 ## Technologies Used
 - HTML
-- CSS (basic)
+- CSS
 - Git & GitHub
