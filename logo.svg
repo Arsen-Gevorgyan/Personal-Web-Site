@@ -46,12 +46,20 @@
        inkscape:export-filename="logo.svg"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <circle
-       style="fill:#100017;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-dasharray:192, 8;stroke-dashoffset:0"
+    <path
+       style="fill:#100017;fill-opacity:1;stroke:#ffffff;stroke-width:8;stroke-linecap:round;stroke-dasharray:none;stroke-dashoffset:0"
        id="circle1"
-       cx="299.77142"
-       cy="138.94695"
-       r="54.471054" />
+       sodipodi:type="arc"
+       sodipodi:cx="-299.76288"
+       sodipodi:cy="-138.9384"
+       sodipodi:rx="54.471054"
+       sodipodi:ry="54.471054"
+       sodipodi:start="4.4505896"
+       sodipodi:end="3.403392"
+       sodipodi:arc-type="arc"
+       d="m -313.86102,-191.5534 a 54.471054,54.471054 0 0 1 61.27146,25.37947 54.471054,54.471054 0 0 1 -8.65647,65.75238 54.471054,54.471054 0 0 1 -65.75237,8.656467 54.471054,54.471054 0 0 1 -25.37948,-61.271457"
+       sodipodi:open="true"
+       transform="scale(-1)" />
     <path
        d="m 300.95472,103.99055 q 13.70839,0 19.97508,5.38543 6.26669,5.38544 6.26669,15.17715 0,4.30835 -1.46876,8.32295 -1.37083,3.91668 -4.60209,7.05003 -3.23127,3.13335 -8.61671,4.99377 -5.38544,1.76251 -13.21881,1.76251 h -8.02919 v 27.22095 h -8.81254 v -69.91279 z m -0.78334,7.53961 h -8.91045 v 27.61262 h 7.05002 q 6.65837,0 11.06464,-1.37085 4.40627,-1.46875 6.56044,-4.6021 2.15418,-3.13335 2.15418,-8.22503 0,-6.75628 -4.30835,-10.08546 -4.30835,-3.32918 -13.61048,-3.32918 z"
        id="text1"
